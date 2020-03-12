@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTestProjectAzurePipelines", "SeleniumTestProjectAzurePipelines\SeleniumTestProjectAzurePipelines.csproj", "{4FF69062-88A8-4344-A494-5CDD588F9B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF69062-88A8-4344-A494-5CDD588F9B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF69062-88A8-4344-A494-5CDD588F9B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF69062-88A8-4344-A494-5CDD588F9B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF69062-88A8-4344-A494-5CDD588F9B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B02E288-E566-4AA5-8E0E-C7FB7DC13DA4}
+	EndGlobalSection
+EndGlobal
